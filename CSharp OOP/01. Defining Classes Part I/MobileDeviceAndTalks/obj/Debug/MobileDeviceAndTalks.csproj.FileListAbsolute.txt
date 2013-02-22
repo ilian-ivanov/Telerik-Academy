@@ -1,0 +1,6 @@
+c:\users\scorps\documents\visual studio 2012\Projects\DefiningClassesPartOne\MobileDeviceAndTalks\bin\Debug\MobileDeviceAndTalks.exe.config
+c:\users\scorps\documents\visual studio 2012\Projects\DefiningClassesPartOne\MobileDeviceAndTalks\obj\Debug\MobileDeviceAndTalks.csprojResolveAssemblyReference.cache
+c:\users\scorps\documents\visual studio 2012\Projects\DefiningClassesPartOne\MobileDeviceAndTalks\bin\Debug\MobileDeviceAndTalks.exe
+c:\users\scorps\documents\visual studio 2012\Projects\DefiningClassesPartOne\MobileDeviceAndTalks\bin\Debug\MobileDeviceAndTalks.pdb
+c:\users\scorps\documents\visual studio 2012\Projects\DefiningClassesPartOne\MobileDeviceAndTalks\obj\Debug\MobileDeviceAndTalks.exe
+c:\users\scorps\documents\visual studio 2012\Projects\DefiningClassesPartOne\MobileDeviceAndTalks\obj\Debug\MobileDeviceAndTalks.pdb
