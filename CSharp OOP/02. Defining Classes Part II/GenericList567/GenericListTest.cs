@@ -16,7 +16,7 @@ namespace GenericList567
             listNames.Add("Pesho");
             listNames.Add("Avan");
             Console.WriteLine(listNames);
-            Console.WriteLine(listNames.Min());
+            Console.WriteLine(listNames.Min<string>());
 
             list.Add(1);
             list.Add(2);
@@ -36,8 +36,8 @@ namespace GenericList567
             
             list.FindElement(2);
 
-            Console.WriteLine("Minimal value: " + list.Min());
-            Console.WriteLine("Maximal value: " + list.Max());
+            Console.WriteLine("Minimal value: " + list.Min<int>());
+            Console.WriteLine("Maximal value: " + list.Max<int>());
             Console.WriteLine("Capacity: " + list.Capacity);
             Console.WriteLine("Count: " + list.Count);
 

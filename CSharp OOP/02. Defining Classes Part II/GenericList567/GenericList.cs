@@ -149,9 +149,9 @@ namespace GenericList567
             return print.ToString();
         }
 
-        public T Min()
+        public T Min<T>()
         {
-            T min = this.genList[0];
+            dynamic min = this.genList[0];
             for (int i = 1; i < this.count; i++)
             {
                 if (min.CompareTo(genList[i]) > 0)
@@ -162,9 +162,9 @@ namespace GenericList567
             return min;
         }
 
-        public T Max()
+        public T Max<T>()
         {
-            T max = this.genList[0];
+            dynamic max = this.genList[0];
             for (int i = 1; i < this.count; i++)
             {
                 if (max.CompareTo(genList[i]) < 0)
