@@ -1,0 +1,6 @@
+c:\users\scorps\documents\visual studio 2012\Projects\DefiningClassesPartTwo\GenericList567\bin\Debug\GenericList567.exe.config
+c:\users\scorps\documents\visual studio 2012\Projects\DefiningClassesPartTwo\GenericList567\bin\Debug\GenericList567.exe
+c:\users\scorps\documents\visual studio 2012\Projects\DefiningClassesPartTwo\GenericList567\bin\Debug\GenericList567.pdb
+c:\users\scorps\documents\visual studio 2012\Projects\DefiningClassesPartTwo\GenericList567\obj\Debug\GenericList567.csprojResolveAssemblyReference.cache
+c:\users\scorps\documents\visual studio 2012\Projects\DefiningClassesPartTwo\GenericList567\obj\Debug\GenericList567.exe
+c:\users\scorps\documents\visual studio 2012\Projects\DefiningClassesPartTwo\GenericList567\obj\Debug\GenericList567.pdb

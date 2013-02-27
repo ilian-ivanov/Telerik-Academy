@@ -1,0 +1,6 @@
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\DefiningClassesPartTwo\MatrixTest\bin\Debug\MatrixTest.exe.config
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\DefiningClassesPartTwo\MatrixTest\obj\Debug\Matrix8910.csprojResolveAssemblyReference.cache
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\DefiningClassesPartTwo\MatrixTest\bin\Debug\MatrixTest.exe
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\DefiningClassesPartTwo\MatrixTest\bin\Debug\MatrixTest.pdb
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\DefiningClassesPartTwo\MatrixTest\obj\Debug\MatrixTest.exe
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\DefiningClassesPartTwo\MatrixTest\obj\Debug\MatrixTest.pdb

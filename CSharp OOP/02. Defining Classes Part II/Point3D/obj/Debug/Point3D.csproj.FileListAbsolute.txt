@@ -1,0 +1,6 @@
+c:\users\scorps\documents\visual studio 2012\Projects\DefiningClassesPartTwo\Point3D\bin\Debug\Point3D.exe.config
+c:\users\scorps\documents\visual studio 2012\Projects\DefiningClassesPartTwo\Point3D\obj\Debug\Point3D.csprojResolveAssemblyReference.cache
+c:\users\scorps\documents\visual studio 2012\Projects\DefiningClassesPartTwo\Point3D\bin\Debug\Point3D.exe
+c:\users\scorps\documents\visual studio 2012\Projects\DefiningClassesPartTwo\Point3D\bin\Debug\Point3D.pdb
+c:\users\scorps\documents\visual studio 2012\Projects\DefiningClassesPartTwo\Point3D\obj\Debug\Point3D.exe
+c:\users\scorps\documents\visual studio 2012\Projects\DefiningClassesPartTwo\Point3D\obj\Debug\Point3D.pdb

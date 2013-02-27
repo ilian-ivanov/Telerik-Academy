@@ -1,0 +1,6 @@
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\DefiningClassesPartTwo\VersionAttribute\bin\Debug\VersionAttribute.exe.config
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\DefiningClassesPartTwo\VersionAttribute\bin\Debug\VersionAttribute.exe
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\DefiningClassesPartTwo\VersionAttribute\bin\Debug\VersionAttribute.pdb
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\DefiningClassesPartTwo\VersionAttribute\obj\Debug\VersionAttribute.csprojResolveAssemblyReference.cache
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\DefiningClassesPartTwo\VersionAttribute\obj\Debug\VersionAttribute.exe
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\DefiningClassesPartTwo\VersionAttribute\obj\Debug\VersionAttribute.pdb
