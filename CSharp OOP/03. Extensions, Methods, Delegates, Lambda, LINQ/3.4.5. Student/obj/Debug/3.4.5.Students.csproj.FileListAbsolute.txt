@@ -1,0 +1,6 @@
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\ExtensionMethodsDelegatesLambda\3.FirstBeforeLastName\bin\Debug\3.FirstBeforeLastName.exe.config
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\ExtensionMethodsDelegatesLambda\3.FirstBeforeLastName\obj\Debug\3.FirstBeforeLastName.exe
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\ExtensionMethodsDelegatesLambda\3.FirstBeforeLastName\obj\Debug\3.FirstBeforeLastName.pdb
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\ExtensionMethodsDelegatesLambda\3.FirstBeforeLastName\bin\Debug\3.FirstBeforeLastName.exe
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\ExtensionMethodsDelegatesLambda\3.FirstBeforeLastName\bin\Debug\3.FirstBeforeLastName.pdb
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\ExtensionMethodsDelegatesLambda\3.FirstBeforeLastName\obj\Debug\3.4.5.Students.csprojResolveAssemblyReference.cache

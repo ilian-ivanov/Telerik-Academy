@@ -1,0 +1,6 @@
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\ExtensionMethodsDelegatesLambda\2.ExtensionIEnumerable\bin\Debug\2.ExtensionIEnumerable.exe.config
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\ExtensionMethodsDelegatesLambda\2.ExtensionIEnumerable\obj\Debug\2.ExtensionIEnumerable.csprojResolveAssemblyReference.cache
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\ExtensionMethodsDelegatesLambda\2.ExtensionIEnumerable\bin\Debug\2.ExtensionIEnumerable.exe
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\ExtensionMethodsDelegatesLambda\2.ExtensionIEnumerable\bin\Debug\2.ExtensionIEnumerable.pdb
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\ExtensionMethodsDelegatesLambda\2.ExtensionIEnumerable\obj\Debug\2.ExtensionIEnumerable.exe
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\ExtensionMethodsDelegatesLambda\2.ExtensionIEnumerable\obj\Debug\2.ExtensionIEnumerable.pdb

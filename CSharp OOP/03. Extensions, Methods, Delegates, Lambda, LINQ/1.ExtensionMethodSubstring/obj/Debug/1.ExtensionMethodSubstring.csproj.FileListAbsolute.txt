@@ -1,0 +1,6 @@
+c:\users\scorps\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambda\1.ExtensionMethodSubstring\bin\Debug\1.ExtensionMethodSubstring.exe.config
+c:\users\scorps\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambda\1.ExtensionMethodSubstring\obj\Debug\1.ExtensionMethodSubstring.csprojResolveAssemblyReference.cache
+c:\users\scorps\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambda\1.ExtensionMethodSubstring\bin\Debug\1.ExtensionMethodSubstring.exe
+c:\users\scorps\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambda\1.ExtensionMethodSubstring\bin\Debug\1.ExtensionMethodSubstring.pdb
+c:\users\scorps\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambda\1.ExtensionMethodSubstring\obj\Debug\1.ExtensionMethodSubstring.exe
+c:\users\scorps\documents\visual studio 2012\Projects\ExtensionMethodsDelegatesLambda\1.ExtensionMethodSubstring\obj\Debug\1.ExtensionMethodSubstring.pdb

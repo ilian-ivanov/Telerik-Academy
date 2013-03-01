@@ -1,0 +1,6 @@
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\ExtensionMethodsDelegatesLambda\6.Array\bin\Debug\6.Array.exe.config
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\ExtensionMethodsDelegatesLambda\6.Array\bin\Debug\6.Array.exe
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\ExtensionMethodsDelegatesLambda\6.Array\bin\Debug\6.Array.pdb
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\ExtensionMethodsDelegatesLambda\6.Array\obj\Debug\6.Array.csprojResolveAssemblyReference.cache
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\ExtensionMethodsDelegatesLambda\6.Array\obj\Debug\6.Array.exe
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\ExtensionMethodsDelegatesLambda\6.Array\obj\Debug\6.Array.pdb
