@@ -46,7 +46,7 @@ namespace _2.ExtensionIEnumerable
             return (T)sum;
         }
 
-        public static T ProductValue<T>(this IEnumerable<T> enumeration)
+        public static decimal ProductValue<T>(this IEnumerable<T> enumeration)
             where T : struct, IFormattable, IComparable, IConvertible
         {
             dynamic product = enumeration.First();
@@ -54,10 +54,10 @@ namespace _2.ExtensionIEnumerable
             {
                 product *= item;
             }
-            return (T)product;
+            return (decimal)product;
         }
 
-        public static T AverageValue<T>(this IEnumerable<T> enumeration)
+        public static decimal AverageValue<T>(this IEnumerable<T> enumeration)
             where T : struct, IFormattable, IComparable, IConvertible
         {
             dynamic sum = enumeration.First();
@@ -67,7 +67,7 @@ namespace _2.ExtensionIEnumerable
                 count++;
                 sum += item;
             }
-            return (T)(sum / count);
+            return (decimal)(sum / count);
         }
     }
 }
