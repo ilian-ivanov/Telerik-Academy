@@ -1,0 +1,6 @@
+c:\users\scorps\documents\visual studio 2012\Projects\ObjectOrientedPrinciplesPartOne\1.SchoolTest\bin\Debug\1.SchoolTest.exe.config
+c:\users\scorps\documents\visual studio 2012\Projects\ObjectOrientedPrinciplesPartOne\1.SchoolTest\bin\Debug\1.SchoolTest.exe
+c:\users\scorps\documents\visual studio 2012\Projects\ObjectOrientedPrinciplesPartOne\1.SchoolTest\bin\Debug\1.SchoolTest.pdb
+c:\users\scorps\documents\visual studio 2012\Projects\ObjectOrientedPrinciplesPartOne\1.SchoolTest\obj\Debug\1.SchoolTest.csprojResolveAssemblyReference.cache
+c:\users\scorps\documents\visual studio 2012\Projects\ObjectOrientedPrinciplesPartOne\1.SchoolTest\obj\Debug\1.SchoolTest.exe
+c:\users\scorps\documents\visual studio 2012\Projects\ObjectOrientedPrinciplesPartOne\1.SchoolTest\obj\Debug\1.SchoolTest.pdb
