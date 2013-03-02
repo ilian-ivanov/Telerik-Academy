@@ -1,0 +1,1 @@
+c:\users\scorps\documents\visual studio 2012\Projects\ObjectOrientedPrinciplesPartOne\AbstractClassHuman\bin\Debug\AbstractClassHuman.exe.config

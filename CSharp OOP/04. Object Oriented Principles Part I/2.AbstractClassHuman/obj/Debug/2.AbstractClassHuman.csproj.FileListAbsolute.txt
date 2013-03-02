@@ -1,0 +1,6 @@
+c:\users\scorps\documents\visual studio 2012\Projects\ObjectOrientedPrinciplesPartOne\AbstractClassHuman\obj\Debug\2.AbstractClassHuman.csprojResolveAssemblyReference.cache
+c:\users\scorps\documents\visual studio 2012\Projects\ObjectOrientedPrinciplesPartOne\AbstractClassHuman\bin\Debug\AbstractClassHuman.exe.config
+c:\users\scorps\documents\visual studio 2012\Projects\ObjectOrientedPrinciplesPartOne\AbstractClassHuman\bin\Debug\AbstractClassHuman.exe
+c:\users\scorps\documents\visual studio 2012\Projects\ObjectOrientedPrinciplesPartOne\AbstractClassHuman\bin\Debug\AbstractClassHuman.pdb
+c:\users\scorps\documents\visual studio 2012\Projects\ObjectOrientedPrinciplesPartOne\AbstractClassHuman\obj\Debug\AbstractClassHuman.exe
+c:\users\scorps\documents\visual studio 2012\Projects\ObjectOrientedPrinciplesPartOne\AbstractClassHuman\obj\Debug\AbstractClassHuman.pdb
