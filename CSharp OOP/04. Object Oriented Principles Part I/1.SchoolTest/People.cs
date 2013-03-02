@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace _1.SchoolTest
 {
-    public class People
+    public class Person
     {
         private readonly string name;
 
-        public People(string name)
+        public Person(string name)
         {
             // checks if name is only letters
             for (int i = 0; i < name.Length; i++)

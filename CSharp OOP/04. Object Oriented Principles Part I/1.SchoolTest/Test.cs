@@ -14,7 +14,7 @@ namespace _1.SchoolTest
             Discipline[] disciplines = new Discipline[1];
             disciplines[0] = dis;
             
-            People men = new People("Pesho");
+            Person men = new Person("Pesho");
             
             Student ivan = new Student("Ivan", 13);
             Student[] students = new Student[1];
@@ -26,7 +26,7 @@ namespace _1.SchoolTest
 
             ivan.FreeText = "pesho";
 
-            SchoolClass classA = new SchoolClass(students, teachers, "12v");
+            SchoolClass classA = new SchoolClass(students, teachers, "12a");
             SchoolClass[] classes = new SchoolClass[1];
 
             School school = new School(classes);

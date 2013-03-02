@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _1.SchoolTest
 {
-    public class Student : People, IOptional
+    public class Student : Person, IOptional
     {
         private uint classNumber;
         private string freeText;
