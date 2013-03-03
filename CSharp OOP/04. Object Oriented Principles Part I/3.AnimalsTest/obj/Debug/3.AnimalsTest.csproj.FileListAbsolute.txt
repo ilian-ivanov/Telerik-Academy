@@ -1,0 +1,6 @@
+c:\users\scorps\documents\visual studio 2012\Projects\ObjectOrientedPrinciplesPartOne\3.AnimalsTest\bin\Debug\3.AnimalsTest.exe.config
+c:\users\scorps\documents\visual studio 2012\Projects\ObjectOrientedPrinciplesPartOne\3.AnimalsTest\bin\Debug\3.AnimalsTest.exe
+c:\users\scorps\documents\visual studio 2012\Projects\ObjectOrientedPrinciplesPartOne\3.AnimalsTest\bin\Debug\3.AnimalsTest.pdb
+c:\users\scorps\documents\visual studio 2012\Projects\ObjectOrientedPrinciplesPartOne\3.AnimalsTest\obj\Debug\3.AnimalsTest.csprojResolveAssemblyReference.cache
+c:\users\scorps\documents\visual studio 2012\Projects\ObjectOrientedPrinciplesPartOne\3.AnimalsTest\obj\Debug\3.AnimalsTest.exe
+c:\users\scorps\documents\visual studio 2012\Projects\ObjectOrientedPrinciplesPartOne\3.AnimalsTest\obj\Debug\3.AnimalsTest.pdb
