@@ -1,0 +1,6 @@
+c:\users\scorps\documents\visual studio 2012\Projects\ObjectOrientedPrinciplesPartTwo\1.ShapeClassTest\bin\Debug\1.ShapeClassTest.exe.config
+c:\users\scorps\documents\visual studio 2012\Projects\ObjectOrientedPrinciplesPartTwo\1.ShapeClassTest\obj\Debug\1.ShapeClassTest.csprojResolveAssemblyReference.cache
+c:\users\scorps\documents\visual studio 2012\Projects\ObjectOrientedPrinciplesPartTwo\1.ShapeClassTest\bin\Debug\1.ShapeClassTest.exe
+c:\users\scorps\documents\visual studio 2012\Projects\ObjectOrientedPrinciplesPartTwo\1.ShapeClassTest\bin\Debug\1.ShapeClassTest.pdb
+c:\users\scorps\documents\visual studio 2012\Projects\ObjectOrientedPrinciplesPartTwo\1.ShapeClassTest\obj\Debug\1.ShapeClassTest.exe
+c:\users\scorps\documents\visual studio 2012\Projects\ObjectOrientedPrinciplesPartTwo\1.ShapeClassTest\obj\Debug\1.ShapeClassTest.pdb

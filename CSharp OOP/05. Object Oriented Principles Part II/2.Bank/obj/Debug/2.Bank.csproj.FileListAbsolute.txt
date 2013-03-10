@@ -1,0 +1,6 @@
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\ObjectOrientedPrinciplesPartTwo\2.Bank\bin\Debug\2.Bank.exe.config
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\ObjectOrientedPrinciplesPartTwo\2.Bank\obj\Debug\2.Bank.csprojResolveAssemblyReference.cache
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\ObjectOrientedPrinciplesPartTwo\2.Bank\bin\Debug\2.Bank.exe
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\ObjectOrientedPrinciplesPartTwo\2.Bank\bin\Debug\2.Bank.pdb
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\ObjectOrientedPrinciplesPartTwo\2.Bank\obj\Debug\2.Bank.exe
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\ObjectOrientedPrinciplesPartTwo\2.Bank\obj\Debug\2.Bank.pdb

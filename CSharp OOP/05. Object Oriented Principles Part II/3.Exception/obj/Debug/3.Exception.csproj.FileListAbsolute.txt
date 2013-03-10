@@ -1,0 +1,6 @@
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\ObjectOrientedPrinciplesPartTwo\3.Exception\bin\Debug\3.Exception.exe.config
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\ObjectOrientedPrinciplesPartTwo\3.Exception\obj\Debug\3.Exception.csprojResolveAssemblyReference.cache
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\ObjectOrientedPrinciplesPartTwo\3.Exception\bin\Debug\3.Exception.exe
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\ObjectOrientedPrinciplesPartTwo\3.Exception\bin\Debug\3.Exception.pdb
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\ObjectOrientedPrinciplesPartTwo\3.Exception\obj\Debug\3.Exception.exe
+C:\Users\ScorpS\Documents\Visual Studio 2012\Projects\ObjectOrientedPrinciplesPartTwo\3.Exception\obj\Debug\3.Exception.pdb
