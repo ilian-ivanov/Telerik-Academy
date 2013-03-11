@@ -1,0 +1,6 @@
+c:\users\scorps\documents\visual studio 2012\Projects\CommonTypeSystem\1.2.3.Student\bin\Debug\1.2.3.Student.exe.config
+c:\users\scorps\documents\visual studio 2012\Projects\CommonTypeSystem\1.2.3.Student\obj\Debug\1.2.3.Student.csprojResolveAssemblyReference.cache
+c:\users\scorps\documents\visual studio 2012\Projects\CommonTypeSystem\1.2.3.Student\bin\Debug\1.2.3.Student.exe
+c:\users\scorps\documents\visual studio 2012\Projects\CommonTypeSystem\1.2.3.Student\bin\Debug\1.2.3.Student.pdb
+c:\users\scorps\documents\visual studio 2012\Projects\CommonTypeSystem\1.2.3.Student\obj\Debug\1.2.3.Student.exe
+c:\users\scorps\documents\visual studio 2012\Projects\CommonTypeSystem\1.2.3.Student\obj\Debug\1.2.3.Student.pdb
