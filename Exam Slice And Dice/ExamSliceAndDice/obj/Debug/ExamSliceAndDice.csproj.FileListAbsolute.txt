@@ -1,0 +1,5 @@
+c:\users\scorps\documents\visual studio 2012\Projects\ExamSliceAndDice\ExamSliceAndDice\bin\ExamSliceAndDice.dll
+c:\users\scorps\documents\visual studio 2012\Projects\ExamSliceAndDice\ExamSliceAndDice\bin\ExamSliceAndDice.pdb
+c:\users\scorps\documents\visual studio 2012\Projects\ExamSliceAndDice\ExamSliceAndDice\obj\Debug\ExamSliceAndDice.csprojResolveAssemblyReference.cache
+c:\users\scorps\documents\visual studio 2012\Projects\ExamSliceAndDice\ExamSliceAndDice\obj\Debug\ExamSliceAndDice.dll
+c:\users\scorps\documents\visual studio 2012\Projects\ExamSliceAndDice\ExamSliceAndDice\obj\Debug\ExamSliceAndDice.pdb
