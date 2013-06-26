@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Food Manager</title>
+    <link href="styles/kendo.common.min.css" rel="stylesheet" />
+    <link href="styles/kendo.default.min.css" rel="stylesheet" />
+    <link href="styles/default.css" rel="stylesheet" />
+    <script src="scripts/kendo/jquery.min.js"></script>
+    <script src="scripts/kendo/kendo.all.min.js"></script>
+	<script src="scripts/local-storage-extensions.js"></script>
+</head>
+<body>
+	<!--<div id="welcome"></div>-->
+    <div id="tabs">
+        <ul>
+            <li class="k-state-active">Ново хранене</li>
+            <li>Добави храна</li>
+        </ul>
+        <div id="add-meal"></div>
+        <div id="add-food"></div>
+    </div>
+    <section id="content">
+	    <div id="calendar"></div>
+        <div id="history"></div>
+    </section>
+	<div id="facebook_like_button">
+		<iframe src="http://www.facebook.com/plugins/like.php?href=http://smihaylov.cloudvps.bg/&amp;layout=standard&amp;show_faces=true&amp;width=450&amp;action=like&amp;colorscheme=light&amp;height=80" scrolling="no"
+		frameborder="0" style="border:none; overflow:hidden; width:450px; height:70px; margin-left: 2px; position: absolute;" allowTransparency="true"></iframe>
+	</div>
+	<footer id="footer">
+		| Telerik Academy 2013 | &nbsp;&nbsp;&nbsp; Food Manager project created by: <br/> Oleg Vasilev, Stoqn Mihaylov, Georgi Yolovski, Ilian Ivanov, Hristo Manchev
+	</footer>
+
+    <script src="scripts/classes/DBManager.js"></script>
+    <script src="scripts/classes/DayMeals.js"></script>
+    <script src="scripts/classes/Meal.js"></script>
+    <script src="scripts/classes/Nutrition.js"></script>
+    <script src="scripts/classes/Food.js"></script>
+    <script src="scripts/DatabaseFood.js"></script>
+    <script src="scripts/classes/FoodManager.js"></script>
+    <script src="scripts/RenderClosure.js"></script>
+    <script src="scripts/food-helper.js"></script>
+    <script src="scripts/history.js"></script>
+    <script src="scripts/calendar-builder.js"></script>
+</body>
+</html>

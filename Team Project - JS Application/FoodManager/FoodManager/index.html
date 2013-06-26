@@ -1,0 +1,114 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Welcome to Food Manager</title>
+    <script src="scripts/kendo/jquery.min.js"></script>
+    <script src="scripts/local-storage-extensions.js"></script>
+    <link href="styles/index.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="wrapper">
+        <form id ="register" class="form">
+            <fieldset>
+                <legend>Register Information</legend>
+                <label for="email">EMAIL:</label>
+                <div class ="login-input">
+                    <input id="reg_email" type="email" size="30" placeholder="Enter email..." required="required" />
+                    <span id="valid_email" class="valid">*Specify your correct email address</span>
+                </div>
+                <br />
+                <label for="pass">PASSWORD:</label>
+                <div class ="login-input">
+                    <input id="pass" type="password" placeholder="Enter password..." size="30" maxlength="16" required="required" />
+                    <span id="valid_pass" class="valid">*Password should be at least 6 characters</span>
+                </div>
+                <br />
+                <label for="fname">FIRST NAME:</label>
+                <div class ="login-input">
+                    <input id="fname" type="text" size="30" maxlength="30" required="required" />
+                    <span id="valid_fname" class="valid">*First name cannot be empty</span>
+                </div>
+                <br />
+                <label for="lname">LAST NAME:</label>
+                <div class ="login-input">
+                    <input id="lname" type="text" size="30" maxlength="30" required="required" />
+                    <span id="valid_lname" class="valid">*Last name cannot be empty</span>
+                </div>
+                <br />
+                <label for="gender">GENDER:</label>
+                <div id="gender" class="login-input">
+                    <input name="sex" type="radio" id="sexFem" value="F"/>
+                    <span>FEMALE</span>
+                    <input name="sex" type="radio" id="sexMale" value="M" />
+                    <span>MALE</span>
+                    <span id="valid_gender" class="valid">Please select an option</span>
+                </div>
+                <br />
+                <label for="age">AGE:</label>
+                <div class="login-input">
+                    <input id="age" type="text" size="3" maxlength="2" required="required" />
+                    <span>years</span>  
+                    <span id="valid_age" class="valid">*Specify your correct age</span>              
+                </div>
+                <br />
+                <label for="weight">WEIGHT:</label>
+                <div class ="login-input">
+                    <input id="weight" type="text" size="3" maxlength="3" required="required"/>
+                    <span>kg</span>
+                    <span id="valid_weight" class="valid">*Specify your correct weight</span>
+                </div>
+                <br />
+                <label for="height">HEIGHT:</label>
+                <div class="login-input">
+                    <input id="height" type="text" size="3" maxlength="3" required="required"/>
+                    <span>cm</span>
+                    <span id="valid_height" class="valid">*Specify your correct height</span>
+                </div>
+                <br />
+                <label for="activity">ACTIVITY:</label>
+                <div class="login-input">
+                    <select id="activity">
+                        <option value="0">Select your way of life...</option>
+                        <option value="1.0">No activity/Sedentary way of life</option>
+                        <option value="1.2">Little activity but no trainings</option>
+                        <option value="1.3">Trainings up to 3 times a week</option>
+                        <option value="1.4">Trainings from 3 to 5 times a week</option>
+                        <option value="1.5">Intensive trainings 5 times a week</option>
+                        <option value="1.6">Every day trainings</option>
+                        <option value="1.7">Extremely intensive activity</option>
+                    </select>
+                    <span id="valid_activity" class="valid">*Please select an option</span>
+                </div>
+                <br />
+                <br />
+                <a id="reg_btn" href="#">REGISTER</a>
+                <span id="valid">User created sucessfully</span>
+                <span id="invalid">User already exists</span>
+            </fieldset>
+        </form>
+        <form id="login" class="form">
+            <fieldset id="login-content">
+                <legend>Login Information</legend>
+                <label for="login_email">EMAIL:</label>
+                <div class ="login-input">
+                    <input id="login_email" type="email" size="30" placeholder="Enter email..." required="required" />
+                    <span id="valid_login_email" class="valid">*Specify your correct email address</span>
+                </div>
+                 <br />
+                <label for="login_pass">PASSWORD:</label>
+                <div class ="login-input">
+                    <input id="login_pass" type="password" placeholder="Password" size="30" maxlength="16" required="required" />
+                    <span id="valid_login_pass" class="valid">*Password should be at least 6 characters</span>
+                </div>
+                <br />
+                <br />
+                <a id="login_btn" href="#">LOGIN</a>
+                <span id="invalid_login">User does not exist</span>
+           </fieldset>
+        </form>
+    </div>
+    <script src="scripts/classes/User.js"></script>
+    <script src="scripts/user-helper.js"></script>
+    <script src="scripts/login-register.js"></script>
+</body>
+</html>

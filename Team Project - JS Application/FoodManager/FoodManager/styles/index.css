@@ -1,0 +1,113 @@
+﻿body
+        {
+            text-align:center;
+            margin:0;
+            padding:0;
+            background-image:url(images/index.png);  
+        }
+        #wrapper
+        {
+            width: 75%;
+            height: 485px;
+            margin: auto;
+            padding:5px;
+            text-align:center;
+            top:65px;
+            left: 150px;
+           
+        }
+        .form
+        {
+            width: 47%;
+            text-align:justify;
+            padding:10px;
+            display:inline-block;         
+        }
+        label
+        {
+            display:inline-block;
+            margin-left: 40px;
+            width:25%;
+            
+        }
+        .login-input
+        {
+            display:inline-block;
+            margin-left:40px;
+            padding:10px;
+            width: 50%;
+            text-align:left;
+        }
+
+        #login
+        {
+            position:relative;            
+            height: 465px;
+        }
+        #login-content
+        {
+            position:relative;
+            top:130px;
+        }
+        #register
+        {
+            height: 465px;   
+        }
+        #login_btn, #reg_btn
+        {
+            text-decoration:none;
+            font-family: 'Book Antiqua';
+            display:block;
+            margin-left: 40px;
+            text-align:center;
+            width: 80%;
+            padding: 5px;
+            color:white;
+            background-color:#3b3ff5;
+            border:1px solid blue;
+            border-radius: 10px;
+        }
+        fieldset
+        {
+            padding:10px;
+            margin:0;
+            border-radius: 10px;
+            background-color:#eee;
+        }
+
+        .valid
+        {
+            display:none;
+            color:red;
+            font-size:small;
+            font-style:italic;
+        }
+        input
+        {
+            border: 1px solid gray;
+        }
+
+        #valid
+        {
+            display:none;
+            margin-left: 150px;
+            color:green;
+        }
+
+        #invalid, #invalid_login
+        {
+            display:none;
+            margin-left: 170px;
+            color:red;
+        }
+
+        #gender
+        {
+            margin-left:50px;
+        }
+
+            #login_btn:hover, #reg_btn:hover
+            {
+                color:#ccc;
+                background-color:#333bd3;
+            }

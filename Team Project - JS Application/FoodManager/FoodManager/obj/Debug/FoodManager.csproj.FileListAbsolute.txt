@@ -1,0 +1,5 @@
+C:\Users\ScorpS\Desktop\Team-Peach\FoodManager\FoodManager\bin\FoodManager.dll
+C:\Users\ScorpS\Desktop\Team-Peach\FoodManager\FoodManager\bin\FoodManager.pdb
+C:\Users\ScorpS\Desktop\Team-Peach\FoodManager\FoodManager\obj\Debug\FoodManager.csprojResolveAssemblyReference.cache
+C:\Users\ScorpS\Desktop\Team-Peach\FoodManager\FoodManager\obj\Debug\FoodManager.dll
+C:\Users\ScorpS\Desktop\Team-Peach\FoodManager\FoodManager\obj\Debug\FoodManager.pdb
